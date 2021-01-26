@@ -8,6 +8,7 @@
     ],
     "require": {
         "zoujingli/wechat-developer": "^1.2",
-        "aliyuncs/oss-sdk-php": "^2.4"
+        "aliyuncs/oss-sdk-php": "^2.4",
+        "phpmailer/phpmailer": "6.1.7"
     }
 }
