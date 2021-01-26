@@ -1,0 +1,13 @@
+{
+    "name": "root/test",
+    "authors": [
+        {
+            "name": "huanghs",
+            "email": "63930667@qq.com"
+        }
+    ],
+    "require": {
+        "zoujingli/wechat-developer": "^1.2",
+        "aliyuncs/oss-sdk-php": "^2.4"
+    }
+}
